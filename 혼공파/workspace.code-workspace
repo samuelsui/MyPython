@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "htdocs",
+			"path": "D:\\Bitnami\\wampstack-7.4.12-0\\apache2\\htdocs"
+		},
+		{
+			"name": "wampstack-7.4.12-0",
+			"path": "D:\\Bitnami\\wampstack-7.4.12-0"
+		}
+	],
+	"settings": {}
+}
